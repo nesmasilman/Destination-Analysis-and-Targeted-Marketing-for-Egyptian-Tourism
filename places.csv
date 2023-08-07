@@ -1,0 +1,217 @@
+,Tourist Place, Location   ,Country, Historical Significance , Natural Beauty , Adventure Activities , Accessibility , Shopping , Nightlife , Water Sports , Wildlife Viewing , Scuba Diving ,Type
+0,Abu Simbel Temples, Aswan      ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+1,Pyramids of Giza, Giza       ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+2,Luxor Temple, Luxor      ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+3,The Museum of Egyptian Antiquities, Cairo      ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Cultural
+4,Alexandria, Alexandria ,Egypt, Medium                 , High           , Medium               , High           , Yes      , Yes       , Yes           , No               , Yes          ,Coastal
+5,Aswan, Aswan      ,Egypt, Medium                 , High           , High                 , High           , Yes      , Yes       , Yes           , Yes              , Yes          ,Historical
+6,Karnak Temple, Luxor          ,Egypt, High                   , Low            , Low                  , High           , No       , No        , No            , No               , No           ,Historical
+7,Mount Sinai, Sinai Peninsula ,Egypt, High                   , High           , Medium               , Medium         , No       , No        , No            , No               , No           ,Natural Parks and Protected Areas
+8,St. Catherine's Monastery, Sinai Peninsula ,Egypt, High                   , Low            , Low                  , Low            , No       , No        , No            , No               , No           ,Natural Parks and Protected Areas
+9,Khan El Khalili Bazaar, Cairo          ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+10,Philae Temple, Aswan          ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+11,Alexandria Library, Alexandria     ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Cultural
+12,Ras Mohammed National Park, Sharm El Sheikh,Egypt, Low                    , High           , High                 , High           , No       , No        , Yes           , Yes              , Yes          ,Natural Parks and Protected Areas
+13,Temple of Hatshepsut, Luxor            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+14,Islamic Cairo, Cairo            ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+15,Abu Simbel Sound and Light Show, Aswan         ,Egypt, High                   , Low            , Low                  , Medium         , No       , Yes       , No            , No               , No           ,Entertainment
+16,Colossi of Memnon, Luxor            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+17,Hurghada Marina, Hurghada         ,Egypt, Low                    , High           , High                 , High           , Yes      , Yes       , Yes           , No               , Yes          ,Coastal
+18,Elephantine Island, Aswan            ,Egypt, High                   , High           , Low                  , Medium         , No       , No        , Yes           , No               , No           ,Natural
+19,Cairo Citadel, Cairo            ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+20,Wadi El Gemal National Park, Marsa Alam       ,Egypt, Low                    , High           , High                 , Low            , No       , No        , Yes           , Yes              , Yes          ,Natural Parks and Protected Areas
+21,Catacombs of Kom El Shoqafa, Alexandria       ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+22,Mosque of Muhammad Ali, Cairo            ,Egypt, High                   , Low            , Low                  , High           , No       , No        , No            , No               , No           ,Historical
+23,Al-Azhar Park, Cairo            ,Egypt, Medium                 , High           , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Natural Parks and Protected Areas
+24,Coptic Museum, Cairo            ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Cultural
+25,Egyptian Textile Museum, Cairo            ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Cultural
+26,Ras Shitan, Sinai Peninsula ,Egypt, Low                    , High           , High                 , Low            , No       , Yes       , Yes           , No               , Yes          ,Natural Parks and Protected Areas
+27,Montazah Gardens, Alexandria       ,Egypt, Medium                 , High           , Medium               , High           , Yes      , Yes       , Yes           , No               , Yes          ,Natural
+28,Alexandria National Museum, Alexandria       ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Cultural
+29,Philae Sound and Light Show, Aswan            ,Egypt, High                   , Low            , Low                  , Medium         , No       , Yes       , No            , No               , No           ,Entertainment
+30,The Egyptian Museum, Cairo            ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Cultural
+31,Nubian Village, Aswan            ,Egypt, Medium                 , High           , Low                  , Low            , No       , No        , Yes           , No               , No           ,Cultural
+32,Wadi El Rayan, Fayoum           ,Egypt, Low                    , High           , High                 , Low            , No       , No        , No            , Yes              , No           ,Natural Parks and Protected Areas
+33,Temple of Edfu, Aswan,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+34,Dendera Temple Complex, Qena             ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+35,Manial Palace Museum, Cairo            ,Egypt, Medium                 , High           , Low                  , High           , Yes      , No        , No            , No               , No           ,Cultural
+36,Qaitbay Citadel, Alexandria       ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+37,Wadi Degla Protected Area, Cairo            ,Egypt, Low                    , High           , High                 , Medium         , No       , No        , No            , Yes              , No           ,Natural
+38,The Valley of the Queens, Luxor            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+39,Cairo Opera House, Cairo            ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Entertainment
+40,Salah El-Din Castle, Sinai Peninsula ,Egypt, Medium                 , High           , Low                  , Low            , No       , No        , Yes           , No               , No           ,Historical
+41,Ben Ezra Synagogue, Cairo            ,Egypt, High                   , Low            , Low                  , High           , No       , No        , No            , No               , No           ,Cultural
+42,Qasr el-Nil Bridge, Cairo            ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+43,Dakhla Oasis, New Valley       ,Egypt, High                   , High           , High                 , Low            , No       , No        , No            , No               , No           ,Natural
+44,Siwa Oasis, Matrouh          ,Egypt, High                   , High           , High                 , Low            , No       , No        , No            , Yes              , No           ,Natural
+45,Al-Muizz Street, Cairo            ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+46,Marsa Matrouh Beaches, Marsa Matrouh    ,Egypt, Low                    , High           , High                 , High           , Yes      , Yes       , Yes           , No               , Yes          ,Coastal
+47,Valley of the Kings, Luxor            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Natural Parks and Protected Areas
+48,Aswan High Dam, Aswan            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Natural Parks and Protected Areas
+49,Hurghada Grand Aquarium, Hurghada         ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Natural Parks and Protected Areas
+50,Giza Plateau, Giza             ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+51,Sharm El Sheikh, South Sinai      ,Egypt, Low                    , High           , High                 , High           , Yes      , Yes       , Yes           , Yes              , Yes          ,Coastal
+52,Zeytuna Beach, Hurghada         ,Egypt, Low                    , High           , High                 , High           , Yes      , Yes       , Yes           , No               , Yes          ,Coastal
+53,Wadi El Hitan, Fayoum           ,Egypt, High                   , High           , Medium               , Low            , No       , No        , No            , Yes              , No           ,Natural
+54,Mosque of Ibn Tulun, Cairo            ,Egypt, High                   , Low            , Low                  , High           , No       , No        , No            , No               , No           ,Historical
+55,St. Mark's Coptic Orthodox Cathedral, Alexandria ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+56,Dahab, South Sinai      ,Egypt, Low                    , High           , High                 , Medium         , Yes      , Yes       , Yes           , Yes              , Yes          ,Coastal
+57,Alexandria Corniche, Alexandria       ,Egypt, Medium                 , High           , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Coastal
+58,Blue Hole, South Sinai      ,Egypt, Low                    , High           , High                 , Low            , No       , Yes       , Yes           , Yes              , Yes          ,Coastal
+59,Valley of the Nobles, Luxor            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+60,Lake Nasser, Aswan            ,Egypt, Low                    , High           , High                 , Medium         , No       , No        , Yes           , Yes              , Yes          ,Natural
+61,White Desert, Farafra          ,Egypt, Low                    , High           , High                 , Low            , No       , No        , No            , Yes              , No           ,Natural Parks and Protected Areas
+62,Temple of Kom Ombo, Aswan            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+63,Nubian Museum, Aswan            ,Egypt, High                   , Low            , Low                  , Medium         , Yes      , Yes       , No            , No               , No           ,Cultural
+64,Luxor Museum, Luxor            ,Egypt, High                   , Low            , Low                  , Medium         , Yes      , Yes       , No            , No               , No           ,Cultural
+65,Temple of Horus, Edfu             ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+66,Monastery of Saint Paul, Red Sea Mountains ,Egypt, High                   , High           , Low                  , Low            , No       , No        , No            , No               , No           ,Historical
+67,Montu Temple, Luxor            ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+68,Coptic Hanging Church, Cairo            ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+69,Red Sea Mountains, Red Sea Mountains ,Egypt, Low                    , High           , Medium               , Low            , No       , No        , No            , Yes              , No           ,Natural Parks and Protected Areas
+70,Wadi El Natrun, Beheira          ,Egypt, High                   , Low            , Low                  , High           , No       , No        , No            , No               , No           ,Natural Parks and Protected Areas
+71,Al-Azhar Mosque, Cairo              ,Egypt, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+72,Almaza Bay, Matrouh            ,Egypt, Low                    , High           , Medium               , Medium         , No       , No        , Yes           , No               , No           ,Coastal
+73,Abydos Temple, Sohag              ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+74,Tiran Island, Sharm El Sheikh  ,Egypt, Low                    , High           , High                 , Medium         , No       , Yes       , Yes           , Yes              , Yes          ,Coastal
+75,Abu Mena, Alexandria       ,Egypt, High                   , Low            , Low                  , High           , No       , No        , No            , No               , No           ,Historical
+76,Baron Empain Palace, Cairo            ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+77,El Alamein War Cemetery, Matrouh          ,Egypt, High                   , Low            , Low                  , Medium         , No       , No        , No            , No               , No           ,Historical
+78,El-Gouna, Red Sea Coast    ,Egypt, Low                    , High           , High                 , High           , Yes      , Yes       , Yes           , Yes              , Yes          ,Coastal
+79,Abu Rawash, Giza             ,Egypt, High                   , Low            , Low                  , High           , No       , No        , No            , No               , No           ,Historical
+80,El-Quseir, Red Sea Coast    ,Egypt, Low                    , High           , High                 , Medium         , Yes      , Yes       , Yes           , Yes              , Yes          ,Coastal
+81,City stars Mall, Cairo              ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+82,Mall of Egypt, Giza               ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+83,Cairo Festival City Mall, Cairo              ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+84,City Centre Alexandria, Alexandria         ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+85,Genena City, Sharm El Sheikh    ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+86,City Centre Maadi, Cairo              ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+87,The First Mall, Giza               ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+88,Mall of Arabia,6th of October,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+89,Zamalek , Cairo              ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Natural
+90,Talaat Harb Street, Cairo              ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+91,Katameya Downtown Mall, Cairo              ,Egypt, Low                    , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+92,Souk Al Fustat, Cairo              ,Egypt, Medium                 , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Commercial
+93,Hagia Sophia, Istanbul           ,Turkey, High                   , Low            , Low                  , High           , Yes      , Yes       , No            , No               , No           ,Historical
+94,Cappadocia, Nevsehir          ,Turkey, Medium                 , High           ,High, Medium         , Yes      , Yes       , No            , No               , No           ,Natural Parks and Protected Areas
+95,Ephesus, Izmir              ,Turkey, High                   , Low            ,Low, Medium         , Yes      , Yes       , No            , No               , No           ,Historical
+96,Pamukkale Thermal Pools, Denizli            ,Turkey, Medium                 , High           ,High, High           , Yes      , Yes       , No            , No               , No           ,Natural
+97,Topkapi Palace, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+98,Bodrum Castle, Bodrum             ,Turkey, High                   , Low            ,High, High           , Yes      , Yes       , Yes           , Yes              , Yes          ,Historical
+99,Goreme Open-Air Museum, Nevsehir          ,Turkey, High                   , Low            ,High, Medium         , Yes      , Yes       , No            , No               , No           ,Historical
+100,Pergamon Acropolis, Izmir              ,Turkey, High                   , Low            ,Low, Medium         , No       , No        , No            , No               , No           ,Historical
+101,Mount Ararat, Agri               ,Turkey, High                   , High           ,High, Low            , No       , No        , No            , Yes              , No           ,Natural Parks and Protected Areas
+102,Blue Mosque, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+103,Mount Nemrut, Adiyaman           ,Turkey, High                   , High           ,High, Medium         , No       , No        , No            , No               , No           ,Historical
+104,Hierapolis-Pamukkale, Denizli            ,Turkey, High                   , High           ,High, High           , Yes      , Yes       , No            , No               , No           ,Historical
+105,Troy Ancient City, Canakkale          ,Turkey, High                   , Low            ,Low, Medium         , Yes      , Yes       , No            , No               , No           ,Historical
+106,Basilica Cistern, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+107,Butterfly Valley, Fethiye            ,Turkey, Low                    , High           ,High, Medium         , No       , No        , No            , Yes              , No           ,Historical
+108,Sumela Monastery, Trabzon            ,Turkey, High                   , High           ,High, Medium         , No       , No        , No            , No               , No           ,Historical
+109,Grand Bazaar, Istanbul           ,Turkey, High                   , Low            ,High, High           , Yes      , Yes       , No            , No               , No           ,Commercial
+110,Uludag Ski Center, Bursa              ,Turkey, High                   , High           ,High, Medium         , Yes      , Yes       , No            , Yes              , No           ,Historical
+111,Aspendos Theater, Antalya            ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+112,Derinkuyu Underground City, Nevsehir          ,Turkey, High                   , Low            ,Low, Medium         , No       , No        , No            , No               , No           ,Historical
+113,Antalya Aquarium, Antalya            ,Turkey, Low                    , Low            ,Low, High           , Yes      , Yes       , Yes           , Yes              , Yes          ,Natural
+114,Mount Olympos, Antalya            ,Turkey, Low                    , High           ,High, Medium         , Yes      , Yes       , No            , Yes              , No           ,Natural
+115,Ani Ancient City, Kars               ,Turkey, High                   , Low            ,Low, Low            , No       , No        , No            , No               , No           ,Historical
+116,Dolmabahce Palace, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+117,Mount Hasan, Aksaray            ,Turkey, High                   , High           ,High, Medium         , No       , No        , No            , Yes              , No           ,Natural
+118,Pigeon Valley, Nevsehir          ,Turkey, Low                    , High           ,High, Medium         , No       , No        , No            , Yes              , No           ,Historical
+119,Temple of Artemis, Izmir              ,Turkey, High                   , Low            ,Low, Medium         , Yes      , Yes       , No            , No               , No           ,Historical
+120,Mount Suphan, Bitlis             ,Turkey, High                   , High           ,High, Low            , No       , No        , No            , Yes              , No           ,Natural Parks and Protected Areas
+121,Maiden's Tower, Istanbul           ,Turkey, Medium                 , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+122,Bursa Grand Mosque, Bursa              ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+123,Olympos Ancient City, Antalya            ,Turkey, High                   , Low            ,Low, Medium         , Yes      , Yes       , No            , No               , No           ,Historical
+124,Mount Tahtali, Antalya            ,Turkey, Low                    , High           ,High, Medium         , Yes      , Yes       , No            , No               , No           ,Natural
+125,Zeugma Mosaic Museum, Gaziantep          ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+126,Istanbul Archaeological Museums, Istanbul         ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Cultural
+127,Patara Beach, Antalya            ,Turkey, Low                    , High           ,High, High           , Yes      , Yes       , Yes           , Yes              , Yes          ,Historical
+128,Sardis Ancient City, Manisa             ,Turkey, High                   , Low            ,Low, Medium         , No       , No        , No            , No               , No           ,Historical
+129,Alanya Castle, Antalya            ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+130,Goreme National Park, NevÅŸehir          ,Turkey, High                   , High           ,High, Medium         , Yes      , Yes       , No            , No               , No           ,Historical
+131,Termessos, Antalya            ,Turkey, High                   , High           ,High, Medium         , No       , No        , No            , No               , No           ,Historical
+132,Manavgat Waterfall, Antalya            ,Turkey, Low                    , High           ,Low, High           , Yes      , Yes       , No            , No               , No           ,Natural Parks and Protected Areas
+133,Anavarza Ancient City, Adana              ,Turkey, High                   , Low            ,Low, Medium         , No       , No        , No            , No               , No           ,Historical
+134,Amasra, BartÄ±n             ,Turkey, High                   , High           ,Low, Medium         , Yes      , Yes       , Yes           , Yes              , Yes          ,Historical
+135,Mount Erciyes, Kayseri            ,Turkey, High                   , High           ,High, Medium         , No       , No        , No            , Yes              , No           ,Historical
+136,Troy Museum, Canakkale          ,Turkey, High                   , Low            ,Low, Medium         , Yes      , Yes       , No            , No               , No           ,Historical
+137,Selimiye Mosque, Edirne             ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+138,Gobekli Tepe, ÅžanlÄ±urfa         ,Turkey, High                   , Low            ,Low, Medium         , No       , No        , No            , No               , No           ,Historical
+139,Saklikent Gorge, Antalya            ,Turkey, Low                    , High           ,High, Medium         , Yes      , Yes       , Yes           , Yes              , Yes          ,Historical
+140,Anitkabir, Ankara             ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+141,Ihlara Valley, Aksaray            ,Turkey, High                   , High           ,High, Medium         , No       , No        , No            , Yes              , No           ,Historical
+142,Lake Van, Van                ,Turkey, Low                    , High           ,High, Medium         , Yes      , Yes       , Yes           , Yes              , No           ,Historical
+143,Duden Waterfalls, Antalya            ,Turkey, Low                    , High           ,Medium, High           , Yes      , Yes       , No            , No               , No           ,Natural Parks and Protected Areas
+144,Antalya Old Town, Antalya            ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+145,Alacati, Izmir              ,Turkey, Low                    , Low            ,High, High           , Yes      , Yes       , Yes           , No               , No           ,Historical
+146,Princes' Islands, Istanbul           ,Turkey, Medium                 , High           ,High, High           , Yes      , Yes       , No            , Yes              , No           ,Historical
+147,Temple of Apollo, Didim              ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+148,Damlatas Caves, Alanya             ,Turkey, Low                    , Low            ,Medium, High           , Yes      , Yes       , No            , No               , No           ,Historical
+149,Spice Bazaar, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Commercial
+150,Chora Church, Istanbul           ,Turkey, High                   , Low            ,Low, High           , No       , No        , No            , No               , No           ,Historical
+151,Miniaturk, Istanbul           ,Turkey, Medium                 , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Cultural
+152,Rahmi M. Koc Museum, Istanbul           ,Turkey, Medium                 , Low            ,Low, High           , No       , No        , No            , No               , No           ,Cultural
+153,Suleymaniye Mosque, Istanbul           ,Turkey, High                   , Low            ,Low, High           , No       , No        , No            , No               , No           ,Historical
+154,Istiklal Avenue, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Commercial
+155,Pierre Loti Hill, Istanbul           ,Turkey, Low                    , High           ,Low, Medium         , No       , Yes       , No            , Yes              , No           ,Natural
+156,Pera Museum, Istanbul           ,Turkey, Medium                 , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Cultural
+157,Bosphorus Cruise, Istanbul           ,Turkey, Medium                 , High           ,Low, High           , No       , Yes       , Yes           , Yes              , No           ,Entertainment
+158,Galata Tower, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+159,Dolmabahce Clock Tower, Istanbul           ,Turkey, Medium                 , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Historical
+160,Eminonu Square, Istanbul           ,Turkey, High                   , Low            ,Low, High           , Yes      , Yes       , No            , No               , No           ,Commercial
+161,Grand Palace,Bangkok,Thailand,High,No,Low,High,Yes,No,No,No,No,Historical
+162,Ayutthaya Historical Park,Ayutthaya,Thailand,High,No,Medium,Medium,No,No,No,No,No,Historical
+163,Doi Suthep Temple,Chiang Mai,Thailand,Medium,Yes,Medium,Medium,No,No,No,No,No,Cultural
+164,Erawan Waterfall,Kanchanaburi,Thailand,No,Yes,High,Medium,No,No,No,No,No,Natural Parks and Protected Areas
+165,Phang Nga Bay,Phuket,Thailand,No,Yes,Medium,High,No,No,Yes,No,Yes,Coastal
+166,Similan Islands,Phang Nga,Thailand,No,Yes,High,Medium,No,Yes,Yes,Yes,Yes,Coastal
+167,Railay Beach,Krabi,Thailand,No,Yes,High,Medium,Yes,No,Yes,No,Yes,Coastal
+168,Wat Arun,Bangkok,Thailand,High,No,Low,High,Yes,No,No,No,No,Cultural
+169,Floating Markets,Damnoen Saduak,Thailand,No,No,Low,Medium,Yes,No,No,No,No,Commercial
+170,Elephant Nature Park,Chiang Mai,Thailand,No,No,Low,Medium,No,No,No,No,No,Commercial
+171,Wat Phra That Doi Kham,Chiang Mai,Thailand,Yes,Yes,Low,Medium,No,No,No,No,No,Cultural
+172,Koh Phi Phi Viewpoint,Krabi,Thailand,No,Yes,Medium,Medium,Yes,No,Yes,No,No,Coastal
+173,Pattaya Floating Market,Pattaya,Thailand,No,No,Low,High,Yes,No,No,No,No,Commercial
+174,Phra Nang Cave Beach,Krabi,Thailand,No,Yes,Low,Medium,Yes,No,No,No,No,Coastal
+175,Wat Rong Khun (White Temple),Chiang Rai,Thailand,No,No,Low,Medium,No,No,No,No,No,Cultural
+176,Koh Chang,Trat,Thailand,No,Yes,Medium,Medium,Yes,Yes,Yes,Yes,Yes,Coastal
+177,Damnoen Saduak Floating Market,Ratchaburi,Thailand,No,No,Low,Medium,No,No,No,No,No,Commercial
+178,Wat Mahathat,Ayutthaya,Thailand,Yes,No,Low,Medium,No,No,No,No,No,Historical
+179,Koh Samui,Surat Thani,Thailand,No,Yes,Medium,High,Yes,No,Yes,No,Yes,Coastal
+180,Koh Tao,Surat Thani,Thailand,No,Yes,Medium,High,Yes,Yes,Yes,Yes,Yes,Coastal
+181,Khao Yai National Park,Nakhon Ratchasima,Thailand,No,Yes,Medium,Medium,No,Yes,Yes,Yes,No,Natural Parks and Protected Areas
+182,Phuket Big Buddha,Phuket,Thailand,No,No,Low,High,No,No,No,No,No,Cultural
+183,Phu Chi Fa,Chiang Rai,Thailand,No,Yes,Low,Medium,No,No,No,No,No,Natural Parks and Protected Areas
+184,Wat Saket (Golden Mount),Bangkok,Thailand,Yes,No,Low,Medium,Yes,No,No,No,No,Cultural
+185,Phuket Old Town,Phuket,Thailand,No,No,Low,High,Yes,No,No,No,No,Cultural
+186,Huay Mae Khamin Waterfall,Kanchanaburi,Thailand,No,Yes,High,Medium,No,No,No,No,No,Natural Parks and Protected Areas
+187,Tiger Cave Temple,Krabi,Thailand,No,Yes,Medium,Medium,No,No,No,No,No,Cultural
+188,Sanctuary of Truth,Pattaya,Thailand,No,No,Low,Medium,No,No,No,No,No,Cultural
+189,Wat Chalong,Phuket,Thailand,Yes,No,Low,High,No,No,No,No,No,Cultural
+190,Khao Sok National Park,Surat Thani,Thailand,No,Yes,High,Medium,No,Yes,Yes,Yes,No,Natural Parks and Protected Areas
+191,Wat Chedi Luang,Chiang Mai,Thailand,Yes,No,Low,Medium,No,No,No,No,No,Cultural
+192,Golden Triangle,Chiang Rai,Thailand,No,Yes,Medium,Medium,No,No,Yes,No,No,Cultural
+193,Hua Hin Night Market,Hua Hin,Thailand,No,No,Low,Medium,Yes,No,No,No,No,Commercial
+194,Wat Suthat,Bangkok,Thailand,Yes,No,Low,High,No,No,No,No,No,Cultural
+195,Sukhothai Historical Park,Sukhothai,Thailand,Yes,No,Low,Medium,No,No,No,No,No,Historical
+196,Koh Mak,Trat,Thailand,No,Yes,Medium,Medium,No,No,No,No,No,Coastal
+197,Phi Phi Islands,Krabi,Thailand,No,Yes,High,High,Yes,Yes,Yes,Yes,Yes,Coastal
+198,Wat Benchamabophit,Bangkok,Thailand,Yes,No,Low,Medium,No,No,No,No,No,Cultural
+199,Nong Nooch Tropical Garden,Pattaya,Thailand,No,No,Low,High,No,No,No,No,No,Entertainment
+200,Koh Kood,Trat,Thailand,No,Yes,Low,Medium,No,No,Yes,Yes,No,Coastal
+201,Chao Phraya River,Bangkok,Thailand,No,No,Medium,High,No,No,Yes,Yes,No,Coastal
+202,Golden Buddha (Wat Traimit),Bangkok,Thailand,No,No,Low,High,No,No,No,No,No,Cultural
+203,Prasat Hin Phimai,Nakhon Ratchasima,Thailand,Yes,No,Low,Medium,No,No,No,No,No,Historical
+204,Koh Lanta,Krabi,Thailand,No,Yes,Medium,High,Yes,No,Yes,No,Yes,Coastal
+205,Chiang Rai Night Bazaar,Chiang Rai,Thailand,No,No,Low,Medium,Yes,No,No,No,No,Commercial
+206,Ancient City (Muang Boran),Samut Prakan,Thailand,No,No,Low,High,No,No,No,No,No,Cultural
+207,Ayutthaya Floating Market,Ayutthaya,Thailand,No,No,Low,Medium,Yes,No,No,No,No,Commercial
+208,Bangla Road,Phuket,Thailand,No,No,Low,High,Yes,High,No,No,No,Commercial
+209,Amphawa Floating Market,Samut Songkhram,Thailand,No,No,Low,High,Yes,No,No,No,No,Commercial
+210,Wat Phra That Doi Suthep,Chiang Mai,Thailand,Medium,Yes,Low,Medium,No,No,No,No,No,Cultural
+211,Coral Island (Koh Hae),Phuket,Thailand,Low,Yes,Medium,High,No,Low,Yes,No,Yes,Coastal
+212,Wat Mahathat (Sukhothai),Sukhothai,Thailand,Medium,No,Low,Medium,No,No,No,No,No,Historical
+213,Koh Nang Yuan,Surat Thani,Thailand,Low,Yes,Low,Medium,Yes,No,No,No,No,Coastal
+214,Hellfire Pass Memorial Museum,Kanchanaburi,Thailand,Medium,No,Low,Medium,No,No,No,No,No,Historical
+215,Khao Kheow Open Zoo,Chonburi,Thailand,No,No,Low,High,No,No,No,Yes,No,Entertainment

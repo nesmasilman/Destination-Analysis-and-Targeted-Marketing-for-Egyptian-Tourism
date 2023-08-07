@@ -1,0 +1,217 @@
+Unnamed: 0,Tourist Place,Location,Country,HistoricalSignificance,NaturalBeauty,AdventureActivities,Accessibility,Shopping,Nightlife,WaterSports,WildlifeViewing,ScubaDiving,Url,Type_Coastal,Type_Commercial,Type_Cultural,Type_Entertainment,Type_Historical,Type_Natural Parks and Protected Areas,Cluster
+0,Abu Simbel Temples, Aswan      ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297540-d317826-Reviews-Abu_Simbel_Temple_Complex-Abu_Simbel_Aswan_Governorate_Nile_River_Valley.html,0,0,0,0,1,0,3
+1,Pyramids of Giza, Giza       ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294202-d317746-Reviews-Pyramids_of_Giza-Giza_Giza_Governorate.html,0,0,0,0,1,0,4
+2,Luxor Temple, Luxor      ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d318954-Reviews-Luxor_Temple-Luxor_Nile_River_Valley.html,0,0,0,0,1,0,4
+3,The Museum of Egyptian Antiquities, Cairo      ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d308825-Reviews-The_Museum_of_Egyptian_Antiquities-Cairo_Cairo_Governorate.html,0,0,1,0,0,0,4
+4,Alexandria, Alexandria ,Egypt,2,1,2,3,1,1,1,0,Yes,https://www.tripadvisor.com/Tourism-g295398-Alexandria_Alexandria_Governorate-Vacations.html,1,0,0,0,0,0,1
+5,Aswan, Aswan      ,Egypt,2,1,3,3,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g294204-Aswan_Aswan_Governorate_Nile_River_Valley-Vacations.html,0,0,0,0,1,0,1
+6,Karnak Temple, Luxor          ,Egypt,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d459885-Reviews-Temple_of_Karnak-Luxor_Nile_River_Valley.html,0,0,0,0,1,0,3
+7,Mount Sinai, Sinai Peninsula ,Egypt,3,1,2,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297554-d554874-Reviews-Mount_Sinai-Saint_Catherine_Red_Sea_and_Sinai.html,0,0,0,0,0,1,5
+8,St. Catherine's Monastery, Sinai Peninsula ,Egypt,3,0,1,1,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297554-d321382-Reviews-St_Catherine_s_Monastery-Saint_Catherine_Red_Sea_and_Sinai.html,0,0,0,0,0,1,3
+9,Khan El Khalili Bazaar, Cairo          ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d308884-Reviews-Khan_Al_Khalili-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+10,Philae Temple, Aswan          ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294204-d317779-Reviews-Temple_of_Philae-Aswan_Aswan_Governorate_Nile_River_Valley.html,0,0,0,0,1,0,3
+11,Alexandria Library, Alexandria     ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g295398-d459934-Reviews-Bibliotheca_Alexandrina-Alexandria_Alexandria_Governorate.html,0,0,1,0,0,0,2
+12,Ras Mohammed National Park, Sharm El Sheikh,Egypt,1,1,3,3,0,0,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g297555-d1216558-Reviews-Ras_Mohammed_National_Park-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html,0,0,0,0,0,1,1
+13,Temple of Hatshepsut, Luxor            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d318962-Reviews-Temple_of_Hatshepsut_at_Deir_el_Bahari-Luxor_Nile_River_Valley.html,0,0,0,0,1,0,3
+14,Islamic Cairo, Cairo            ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d469435-Reviews-Islamic_Cairo-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,4
+15,Abu Simbel Sound and Light Show, Aswan         ,Egypt,3,0,1,2,0,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297540-d1753942-Reviews-Sound_and_Light_Show_Abu_Simbel-Abu_Simbel_Aswan_Governorate_Nile_River_Valley.html,0,0,0,1,0,0,3
+16,Colossi of Memnon, Luxor            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d472001-Reviews-Colossi_of_Memnon-Luxor_Nile_River_Valley.html,0,0,0,0,1,0,3
+17,Hurghada Marina, Hurghada         ,Egypt,1,1,3,3,1,1,1,0,Yes,https://www.tripadvisor.com/Attraction_Review-g297549-d3806192-Reviews-Hurghada_Marina-Hurghada_Red_Sea_and_Sinai.html,1,0,0,0,0,0,1
+18,Elephantine Island, Aswan            ,Egypt,3,1,1,2,0,0,1,0,No,https://www.tripadvisor.com/Attraction_Review-g294204-d317766-Reviews-Elephantine_Island-Aswan_Aswan_Governorate_Nile_River_Valley.html,0,0,0,0,0,1,3
+19,Cairo Citadel, Cairo            ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d308820-Reviews-Cairo_Citadel-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,4
+20,Wadi El Gemal National Park, Marsa Alam       ,Egypt,1,1,3,1,0,0,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g311425-d1055270-Reviews-Wadi_El_Gemal_National_Park-Marsa_Alam_Red_Sea_and_Sinai.html,0,0,0,0,0,1,1
+21,Catacombs of Kom El Shoqafa, Alexandria       ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g295398-d307781-Reviews-Catacombs_of_Kom_el_Shoqafa-Alexandria_Alexandria_Governorate.html,0,0,0,0,1,0,4
+22,Mosque of Muhammad Ali, Cairo            ,Egypt,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d553171-Reviews-Mosque_of_Muhammad_Ali-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,3
+23,Al-Azhar Park, Cairo            ,Egypt,2,1,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d543611-Reviews-Al_Azhar_Park-Cairo_Cairo_Governorate.html,0,0,0,0,0,1,0
+24,Coptic Museum, Cairo            ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d308822-Reviews-The_Coptic_Museum-Cairo_Cairo_Governorate.html,0,0,1,0,0,0,4
+25,Egyptian Textile Museum, Cairo            ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d3170758-Reviews-Egyptian_Textile_Museum-Cairo_Cairo_Governorate.html,0,0,1,0,0,0,4
+26,Ras Shitan, Sinai Peninsula ,Egypt,1,1,3,1,0,1,1,0,Yes,https://www.tripadvisor.com/Attraction_Review-g297547-d15656325-Reviews-Ras_Shitan_Dahb-Dahab_South_Sinai_Red_Sea_and_Sinai.html,0,0,0,0,0,1,1
+27,Montazah Gardens, Alexandria       ,Egypt,2,1,2,3,1,1,1,0,Yes,https://www.tripadvisor.com/Attraction_Review-g295398-d550320-Reviews-Montazah_Gardens-Alexandria_Alexandria_Governorate.html,0,0,0,0,0,1,1
+28,Alexandria National Museum, Alexandria       ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g295398-d459902-Reviews-Alexandria_National_Museum-Alexandria_Alexandria_Governorate.html,0,0,1,0,0,0,4
+29,Philae Sound and Light Show, Aswan            ,Egypt,3,0,1,2,0,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294204-d1755635-Reviews-Sound_and_Light_Show_Philae-Aswan_Aswan_Governorate_Nile_River_Valley.html,0,0,0,1,0,0,3
+30,The Egyptian Museum, Cairo            ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g154996-d10333781-Reviews-The_Egyptian_Museum-Mississauga_Ontario.html,0,0,1,0,0,0,4
+31,Nubian Village, Aswan            ,Egypt,2,1,1,1,0,0,1,0,No,https://www.tripadvisor.com/Attraction_Review-g294204-d553252-Reviews-Nubian_Village-Aswan_Aswan_Governorate_Nile_River_Valley.html,0,0,1,0,0,0,2
+32,Wadi El Rayan, Fayoum           ,Egypt,1,1,3,1,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g424907-d7652577-Reviews-Wadi_El_Rayan-Al_Fayyum_Al_Fayyum_Governorate.html,0,0,0,0,0,1,1
+33,Temple of Edfu, Aswan,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/AttractionProductReview-g294204-d15567208-Edfu_Temple-Aswan_Aswan_Governorate_Nile_River_Valley.html,0,0,0,0,1,0,3
+34,Dendera Temple Complex, Qena             ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1597319-d472016-Reviews-Dendera_Temple_Complex-Dendera_Qena_Governorate_Nile_River_Valley.html,0,0,0,0,1,0,3
+35,Manial Palace Museum, Cairo            ,Egypt,2,1,1,3,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d566589-Reviews-Manial_Palace_Museum-Cairo_Cairo_Governorate.html,0,0,1,0,0,0,2
+36,Qaitbay Citadel, Alexandria       ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g295398-d472022-Reviews-Fort_Qaitbey-Alexandria_Alexandria_Governorate.html,0,0,0,0,1,0,4
+37,Wadi Degla Protected Area, Cairo            ,Egypt,1,1,3,2,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g294201-d469334-Reviews-Wadi_Degla-Cairo_Cairo_Governorate.html,0,0,0,0,0,1,1
+38,The Valley of the Queens, Luxor            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d472014-Reviews-Valley_of_the_Queens-Luxor_Nile_River_Valley.html,0,0,0,0,1,0,3
+39,Cairo Opera House, Cairo            ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d460053-Reviews-Cairo_Opera_House-Cairo_Cairo_Governorate.html,0,0,0,1,0,0,0
+40,Salah El-Din Castle, Sinai Peninsula ,Egypt,2,1,1,1,0,0,1,0,No,https://www.tripadvisor.com/Attraction_Review-g297557-d1559503-Reviews-Salah_El_Din_Castle-Taba_Red_Sea_and_Sinai.html,0,0,0,0,1,0,3
+41,Ben Ezra Synagogue, Cairo            ,Egypt,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d471987-Reviews-Synagogue_Ben_Ezra-Cairo_Cairo_Governorate.html,0,0,1,0,0,0,2
+42,Qasr el-Nil Bridge, Cairo            ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d19392700-Reviews-Qasr_El_Nil_Bridge-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,4
+43,Dakhla Oasis, New Valley       ,Egypt,3,1,3,1,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g316104-d480077-Reviews-Dakhla_Oasis-Al_Qasr_New_Valley_Governorate.html,0,0,0,0,0,1,5
+44,Siwa Oasis, Matrouh          ,Egypt,3,1,3,1,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g303857-d600499-Reviews-Lake_Siwa-Siwa_Matrouh_Governorate.html,0,0,0,0,0,1,5
+45,Al-Muizz Street, Cairo            ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d1015353-Reviews-Sharia_Al_Mu_izz_Li_Din_Allah-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,4
+46,Marsa Matrouh Beaches, Marsa Matrouh    ,Egypt,1,1,3,3,1,1,1,0,Yes,https://www.tripadvisor.com/Attraction_Review-g424910-d2369802-Reviews-Marsa_Matruh-Mersa_Matruh_Matrouh_Governorate.html,1,0,0,0,0,0,1
+47,Valley of the Kings, Luxor            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d321166-Reviews-Valley_of_the_Kings-Luxor_Nile_River_Valley.html,0,0,0,0,0,1,3
+48,Aswan High Dam, Aswan            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294204-d317781-Reviews-Aswan_High_Dam-Aswan_Aswan_Governorate_Nile_River_Valley.html,0,0,0,0,0,1,3
+49,Hurghada Grand Aquarium, Hurghada         ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297549-d4263372-Reviews-Hurghada_Grand_Aquarium-Hurghada_Red_Sea_and_Sinai.html,0,0,0,0,0,1,0
+50,Giza Plateau, Giza             ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294202-d553174-Reviews-Gizeh_Plateau-Giza_Giza_Governorate.html,0,0,0,0,1,0,4
+51,Sharm El Sheikh, South Sinai      ,Egypt,1,1,3,3,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g297555-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai-Vacations.html,1,0,0,0,0,0,1
+52,Zeytuna Beach, Hurghada         ,Egypt,1,1,3,3,1,1,1,0,Yes,https://www.tripadvisor.com/Attraction_Review-g297548-d546092-Reviews-Zeytuna_Beach-El_Gouna_Hurghada_Red_Sea_and_Sinai.html,1,0,0,0,0,0,1
+53,Wadi El Hitan, Fayoum           ,Egypt,3,1,2,1,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g294202-d576150-Reviews-Valley_of_the_Whales_Wadi_Al_Hitan-Giza_Giza_Governorate.html,0,0,0,0,0,1,5
+54,Mosque of Ibn Tulun, Cairo            ,Egypt,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d308891-Reviews-Mosque_of_Ibn_Tulun-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,3
+55,St. Mark's Coptic Orthodox Cathedral, Alexandria ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g295398-d12423300-Reviews-Saint_Mark_s_Coptic_Orthodox_Cathedral-Alexandria_Alexandria_Governorate.html,0,0,0,0,1,0,4
+56,Dahab, South Sinai      ,Egypt,1,1,3,2,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g297547-Dahab_South_Sinai_Red_Sea_and_Sinai-Vacations.html,1,0,0,0,0,0,1
+57,Alexandria Corniche, Alexandria       ,Egypt,2,1,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g295398-d469370-Reviews-Corniche-Alexandria_Alexandria_Governorate.html,1,0,0,0,0,0,0
+58,Blue Hole, South Sinai      ,Egypt,1,1,3,1,0,1,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g297547-d1216598-Reviews-Blue_Hole-Dahab_South_Sinai_Red_Sea_and_Sinai.html,1,0,0,0,0,0,1
+59,Valley of the Nobles, Luxor            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d553301-Reviews-Valley_of_the_Nobles-Luxor_Nile_River_Valley.html,0,0,0,0,1,0,3
+60,Lake Nasser, Aswan            ,Egypt,1,1,3,2,0,0,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g294203-d469324-Reviews-Lake_Nasser-Nile_River_Valley.html,0,0,0,0,0,1,1
+61,White Desert, Farafra          ,Egypt,1,1,3,1,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g303851-d469339-Reviews-White_Desert-Farafra_New_Valley_Governorate.html,0,0,0,0,0,1,1
+62,Temple of Kom Ombo, Aswan            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g661499-d2339368-Reviews-Temple_of_Kom_Ombo-Kom_Ombo_Aswan_Governorate_Nile_River_Valley.html,0,0,0,0,1,0,3
+63,Nubian Museum, Aswan            ,Egypt,3,0,1,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294204-d472052-Reviews-Nubian_Museum-Aswan_Aswan_Governorate_Nile_River_Valley.html,0,0,1,0,0,0,4
+64,Luxor Museum, Luxor            ,Egypt,3,0,1,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d318020-Reviews-Luxor_Museum-Luxor_Nile_River_Valley.html,0,0,1,0,0,0,4
+65,Temple of Horus, Edfu             ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1597318-d472018-Reviews-Temple_of_Horus-Edfu_Nile_River_Valley.html,0,0,0,0,1,0,3
+66,Monastery of Saint Paul, Red Sea Mountains ,Egypt,3,1,1,1,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1133136-d25370442-Reviews-St_Paul_Monastery-Zafarana_Red_Sea_and_Sinai.html,0,0,0,0,1,0,3
+67,Montu Temple, Luxor            ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294205-d1515475-Reviews-Temple_of_Montu-Luxor_Nile_River_Valley.html,0,0,0,0,1,0,3
+68,Coptic Hanging Church, Cairo            ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d308831-Reviews-Hanging_Church_El_Muallaqa_Sitt_Mariam_St_Mary-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,4
+69,Red Sea Mountains, Red Sea Mountains ,Egypt,1,1,2,1,0,0,0,1,No,https://www.tripadvisor.com/Tourism-g297545-Red_Sea_and_Sinai-Vacations.html,0,0,0,0,0,1,1
+70,Wadi El Natrun, Beheira          ,Egypt,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Tourism-g3689534-Wadi_El_Natrun_Beheira_Governorate-Vacations.html,0,0,0,0,0,1,3
+71,Al-Azhar Mosque, Cairo              ,Egypt,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d459804-Reviews-Al_Azhar_Mosque-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,4
+72,Almaza Bay, Matrouh            ,Egypt,1,1,2,2,0,0,1,0,No,https://www.tripadvisor.com/Attraction_Review-g424910-d1894208-Reviews-Almaza_Bay-Mersa_Matruh_Matrouh_Governorate.html,1,0,0,0,0,0,1
+73,Abydos Temple, Sohag              ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html,0,0,0,0,1,0,3
+74,Tiran Island, Sharm El Sheikh  ,Egypt,1,1,3,2,0,1,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g1889027-d548226-Reviews-Tiran_Island-Tiran_Island_Red_Sea_and_Sinai.html,1,0,0,0,0,0,1
+75,Abu Mena, Alexandria       ,Egypt,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297541-d321364-Reviews-Abu_Mena-Borg_El_Arab_Alexandria_Governorate.html,0,0,0,0,1,0,3
+76,Baron Empain Palace, Cairo            ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d4224073-Reviews-Baron_Palace-Cairo_Cairo_Governorate.html,0,0,0,0,1,0,4
+77,El Alamein War Cemetery, Matrouh          ,Egypt,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g660770-d2277497-Reviews-El_Alamein_War_Cemetery-El_Alamein_Matrouh_Governorate.html,0,0,0,0,1,0,3
+78,El-Gouna, Red Sea Coast    ,Egypt,1,1,3,3,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g297548-El_Gouna_Hurghada_Red_Sea_and_Sinai-Vacations.html,1,0,0,0,0,0,1
+79,Abu Rawash, Giza             ,Egypt,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294203-d472298-Reviews-Abu_Rawash_Abu_Rowash-Nile_River_Valley.html,0,0,0,0,1,0,3
+80,El-Quseir, Red Sea Coast    ,Egypt,1,1,3,2,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g488096-El_Quseir_Marsa_Alam_Red_Sea_and_Sinai-Vacations.html,1,0,0,0,0,0,1
+81,City stars Mall, Cairo              ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d4887739-Reviews-City_Stars_Mall-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+82,Mall of Egypt, Giza               ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g8363967-d12705929-Reviews-Mall_of_Egypt-6th_of_October_City_Giza_Governorate.html,0,1,0,0,0,0,0
+83,Cairo Festival City Mall, Cairo              ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d6206087-Reviews-Cairo_Festival_City_Mall-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+84,City Centre Alexandria, Alexandria         ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g295398-d8559880-Reviews-City_Centre_Alexandria-Alexandria_Alexandria_Governorate.html,0,1,0,0,0,0,0
+85,Genena City, Sharm El Sheikh    ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297555-d8470714-Reviews-Genena_City-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html,0,1,0,0,0,0,0
+86,City Centre Maadi, Cairo              ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d7110559-Reviews-Maadi_City_Centre-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+87,The First Mall, Giza               ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294202-d6680737-Reviews-The_First_Mall-Giza_Giza_Governorate.html,0,1,0,0,0,0,0
+88,Mall of Arabia,6th of October,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d2558683-Reviews-Mall_of_Arabia_Cairo-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+89,Zamalek , Cairo              ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d469499-Reviews-Zamalek_Gezira_Island-Cairo_Cairo_Governorate.html,0,0,0,0,0,1,0
+90,Talaat Harb Street, Cairo              ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d3838127-Reviews-Talaat_Harb_Culture_Center-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+91,Katameya Downtown Mall, Cairo              ,Egypt,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d10947660-Reviews-Katameya_downtown_mall-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+92,Souk Al Fustat, Cairo              ,Egypt,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g294201-d469361-Reviews-Souk_al_Fustat-Cairo_Cairo_Governorate.html,0,1,0,0,0,0,0
+93,Hagia Sophia, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294497-Reviews-Hagia_Sophia_Mosque-Istanbul.html,0,0,0,0,1,0,4
+94,Cappadocia, Nevsehir          ,Turkey,2,1,3,2,1,1,0,0,No,https://www.tripadvisor.com/Tourism-g297980-Cappadocia-Vacations.html,0,0,0,0,0,1,5
+95,Ephesus, Izmir              ,Turkey,3,0,1,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293976-d548950-Reviews-Ancient_City_of_Ephesus-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,4
+96,Pamukkale Thermal Pools, Denizli            ,Turkey,2,1,3,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297992-d306348-Reviews-Pamukkale_Thermal_Pools-Pamukkale.html,0,0,0,0,0,1,1
+97,Topkapi Palace, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294547-Reviews-Topkapi_Palace-Istanbul.html,0,0,0,0,1,0,4
+98,Bodrum Castle, Bodrum             ,Turkey,3,0,3,3,1,1,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g298658-d294952-Reviews-Bodrum_Castle-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,5
+99,Goreme Open-Air Museum, Nevsehir          ,Turkey,3,0,3,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297983-d298413-Reviews-Goreme_Open_Air_Museum-Goreme_Cappadocia.html,0,0,0,0,1,0,5
+100,Pergamon Acropolis, Izmir              ,Turkey,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g298003-d307838-Reviews-The_Acropolis-Bergama_Izmir_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,3
+101,Mount Ararat, Agri               ,Turkey,3,1,3,1,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g3445118-d545970-Reviews-Mount_Ararat-Agri_Agri_Province.html,0,0,0,0,0,1,5
+102,Blue Mosque, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294495-Reviews-Blue_Mosque-Istanbul.html,0,0,0,0,1,0,4
+103,Mount Nemrut, Adiyaman           ,Turkey,3,1,3,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297957-d300646-Reviews-Mount_Nemrut-Adiyaman.html,0,0,0,0,1,0,5
+104,Hierapolis-Pamukkale, Denizli            ,Turkey,3,1,3,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297992-d556698-Reviews-Hierapolis_Pamukkale-Pamukkale.html,0,0,0,0,1,0,5
+105,Troy Ancient City, Canakkale          ,Turkey,3,0,1,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297979-d324415-Reviews-Troy_Truva-Canakkale_Canakkale_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,4
+106,Basilica Cistern, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294555-Reviews-Basilica_Cistern-Istanbul.html,0,0,0,0,1,0,4
+107,Butterfly Valley, Fethiye            ,Turkey,1,1,3,2,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g298031-d552742-Reviews-Butterfly_Valley-Fethiye_Mugla_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,1
+108,Sumela Monastery, Trabzon            ,Turkey,3,1,3,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g298039-d553486-Reviews-Sumela_Monastery-Trabzon_Ortahisar_Turkish_Black_Sea_Coast.html,0,0,0,0,1,0,5
+109,Grand Bazaar, Istanbul           ,Turkey,3,0,3,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d19466876-Reviews-Grand_Bazaar-Istanbul.html,0,1,0,0,0,0,5
+110,Uludag Ski Center, Bursa              ,Turkey,3,1,3,2,1,1,0,1,No,https://www.tripadvisor.com/Attraction_Review-g297977-d6779125-Reviews-Uludag_Ski_Center-Bursa.html,0,0,0,0,1,0,5
+111,Aspendos Theater, Antalya            ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297963-d548067-Reviews-Aspendos_Ruins-Serik_Serik_District_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,4
+112,Derinkuyu Underground City, Nevsehir          ,Turkey,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1972040-d300129-Reviews-Derinkuyu_Underground_City-Derinkuyu_Cappadocia.html,0,0,0,0,1,0,3
+113,Antalya Aquarium, Antalya            ,Turkey,1,0,1,3,1,1,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g297962-d3514721-Reviews-Antalya_Aquarium-Antalya_Turkish_Mediterranean_Coast.html,0,0,0,0,0,1,0
+114,Mount Olympos, Antalya            ,Turkey,1,1,3,2,1,1,0,1,No,https://www.tripadvisor.com/Attraction_Review-g311312-d526292-Reviews-Mt_Olympos_Tahtali_Dag-Cirali_Olympos_Turkish_Mediterranean_Coast.html,0,0,0,0,0,1,1
+115,Ani Ancient City, Kars               ,Turkey,3,0,1,1,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g298011-d1087678-Reviews-Ani_Antik_Kenti-Kars.html,0,0,0,0,1,0,3
+116,Dolmabahce Palace, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294667-Reviews-Dolmabahce_Palace-Istanbul.html,0,0,0,0,1,0,4
+117,Mount Hasan, Aksaray            ,Turkey,3,1,3,2,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g297982-d4060067-Reviews-Hasan_Dagi-Aksaray_Aksaray_Province.html,0,0,0,0,0,1,5
+118,Pigeon Valley, Nevsehir          ,Turkey,1,1,3,2,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g297983-d550580-Reviews-Pigeon_Valley-Goreme_Cappadocia.html,0,0,0,0,1,0,1
+119,Temple of Artemis, Izmir              ,Turkey,3,0,1,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293976-d318896-Reviews-The_Temple_of_Artemis-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,4
+120,Mount Suphan, Bitlis             ,Turkey,3,1,3,1,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g3526816-d1811962-Reviews-Mount_Suphan-Adilcevaz_Bitlis_Province.html,0,0,0,0,0,1,5
+121,Maiden's Tower, Istanbul           ,Turkey,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d307894-Reviews-KIz_Kulesi-Istanbul.html,0,0,0,0,1,0,4
+122,Bursa Grand Mosque, Bursa              ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297977-d307851-Reviews-The_Great_Mosque-Bursa.html,0,0,0,0,1,0,4
+123,Olympos Ancient City, Antalya            ,Turkey,3,0,1,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g311311-d297057-Reviews-Olympos_Archeological_Site-Olympos_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,4
+124,Mount Tahtali, Antalya            ,Turkey,1,1,3,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297966-d6981579-Reviews-TahtalI_Dagi-Kemer_Turkish_Mediterranean_Coast.html,0,0,0,0,0,1,1
+125,Zeugma Mosaic Museum, Gaziantep          ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297998-d2368196-Reviews-Zeugma_Mosaic_Museum-Gaziantep_Gaziantep_Province.html,0,0,0,0,1,0,4
+126,Istanbul Archaeological Museums, Istanbul         ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294552-Reviews-Istanbul_Archaeological_Museum-Istanbul.html,0,0,1,0,0,0,4
+127,Patara Beach, Antalya            ,Turkey,1,1,3,3,1,1,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g298657-d294632-Reviews-Patara_Beach-Patara_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,1
+128,Sardis Ancient City, Manisa             ,Turkey,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1006502-d3522093-Reviews-Sardis_Sardes-Salihli_Manisa_Province.html,0,0,0,0,1,0,3
+129,Alanya Castle, Antalya            ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297961-d1028434-Reviews-Alanya_Kalesi-Alanya_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,4
+130,Goreme National Park, NevÅŸehir          ,Turkey,3,1,3,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297983-d324392-Reviews-Goreme_National_Park-Goreme_Cappadocia.html,0,0,0,0,1,0,5
+131,Termessos, Antalya            ,Turkey,3,1,3,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297962-d548021-Reviews-Termessos-Antalya_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,5
+132,Manavgat Waterfall, Antalya            ,Turkey,1,1,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297967-d553853-Reviews-Manavgat_Waterfall-Manavgat_Turkish_Mediterranean_Coast.html,0,0,0,0,0,1,0
+133,Anavarza Ancient City, Adana              ,Turkey,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297955-d3611186-Reviews-Anavarza_Ruins-Adana_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,3
+134,Amasra, BartÄ±n             ,Turkey,3,1,1,2,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g673823-Amasra_Bartin_Province_Turkish_Black_Sea_Coast-Vacations.html,0,0,0,0,1,0,4
+135,Mount Erciyes, Kayseri            ,Turkey,3,1,3,2,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g297984-d300619-Reviews-Mount_Erciyes-Kayseri_Kayseri_Province.html,0,0,0,0,1,0,5
+136,Troy Museum, Canakkale          ,Turkey,3,0,1,2,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297979-d15350479-Reviews-Troya_Muzesi-Canakkale_Canakkale_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,4
+137,Selimiye Mosque, Edirne             ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g652369-d2701429-Reviews-Selimiye_Mosque-Edirne_Edirne_Province.html,0,0,0,0,1,0,4
+138,Gobekli Tepe, ÅžanlÄ±urfa         ,Turkey,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g652373-d14803056-Reviews-Potbelly_Hill-Sanliurfa_Sanliurfa_Province.html,0,0,0,0,1,0,3
+139,Saklikent Gorge, Antalya            ,Turkey,1,1,3,2,1,1,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g298031-d552748-Reviews-Saklikent_Milli_Parki-Fethiye_Mugla_Province_Turkish_Aegean_Coast.html,0,0,0,0,1,0,1
+140,Anitkabir, Ankara             ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g298656-d294558-Reviews-Anitkabir-Ankara.html,0,0,0,0,1,0,4
+141,Ihlara Valley, Aksaray            ,Turkey,3,1,3,2,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g1069617-d554011-Reviews-Ihlara_Valley-Guzelyurt_Cappadocia.html,0,0,0,0,1,0,5
+142,Lake Van, Van                ,Turkey,1,1,3,2,1,1,1,1,No,https://www.tripadvisor.com/Attraction_Review-g298041-d298928-Reviews-Lake_Van-Van.html,0,0,0,0,1,0,1
+143,Duden Waterfalls, Antalya            ,Turkey,1,1,2,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297962-d549674-Reviews-Lower_Duden_Waterfalls-Antalya_Turkish_Mediterranean_Coast.html,0,0,0,0,0,1,0
+144,Antalya Old Town, Antalya            ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297962-d295913-Reviews-Kaleici-Antalya_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,4
+145,Alacati, Izmir              ,Turkey,1,0,3,3,1,1,1,0,No,https://www.tripadvisor.com/Attraction_Review-g1024116-d12995030-Reviews-Alacati_Yel_Degirmenleri_Parki-Alacati_Cesme_Izmir_Province_Turkish_Aegean_Coas.html,0,0,0,0,1,0,1
+146,Princes' Islands, Istanbul           ,Turkey,2,1,3,3,1,1,0,1,No,https://www.tripadvisor.com/Attraction_Review-g293974-d4288286-Reviews-Princes_Islands-Istanbul.html,0,0,0,0,1,0,1
+147,Temple of Apollo, Didim              ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1182247-d3510013-Reviews-Temple_of_Apollo-Didim_Turkish_Aegean_Coast.html,0,0,0,0,1,0,4
+148,Damlatas Caves, Alanya             ,Turkey,1,0,2,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297961-d554439-Reviews-Damlatas_Caves-Alanya_Turkish_Mediterranean_Coast.html,0,0,0,0,1,0,0
+149,Spice Bazaar, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294546-Reviews-Misir_Carsisi_Spice_Market-Istanbul.html,0,1,0,0,0,0,4
+150,Chora Church, Istanbul           ,Turkey,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d294668-Reviews-Chora_Museum-Istanbul.html,0,0,0,0,1,0,3
+151,Miniaturk, Istanbul           ,Turkey,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d548916-Reviews-Miniaturk-Istanbul.html,0,0,1,0,0,0,2
+152,Rahmi M. Koc Museum, Istanbul           ,Turkey,2,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d549828-Reviews-Rahmi_M_Koc_Museum-Istanbul.html,0,0,1,0,0,0,2
+153,Suleymaniye Mosque, Istanbul           ,Turkey,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d296037-Reviews-Suleymaniye_Mosque-Istanbul.html,0,0,0,0,1,0,3
+154,Istiklal Avenue, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d295195-Reviews-Istiklal_Caddesi-Istanbul.html,0,1,0,0,0,0,4
+155,Pierre Loti Hill, Istanbul           ,Turkey,1,1,1,2,0,1,0,1,No,https://www.tripadvisor.com/Attraction_Review-g293974-d3511511-Reviews-Pierre_Loti_Tepesi-Istanbul.html,0,0,0,0,0,1,0
+156,Pera Museum, Istanbul           ,Turkey,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d3539275-Reviews-Pera_Museum-Istanbul.html,0,0,1,0,0,0,2
+157,Bosphorus Cruise, Istanbul           ,Turkey,2,1,1,3,0,1,1,1,No,https://www.tripadvisor.com/Attraction_Review-g293974-d295190-Reviews-Bosphorus_Cruise-Istanbul.html,0,0,0,1,0,0,0
+158,Galata Tower, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d295194-Reviews-Galata_Tower-Istanbul.html,0,0,0,0,1,0,4
+159,Dolmabahce Clock Tower, Istanbul           ,Turkey,2,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d8649364-Reviews-Clock_Tower_Dolmabahce-Istanbul.html,0,0,0,0,1,0,4
+160,Eminonu Square, Istanbul           ,Turkey,3,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293974-d2276148-Reviews-Eminonu_Square-Istanbul.html,0,1,0,0,0,0,4
+161,Grand Palace,Bangkok,Thailand,3,0,1,3,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293916-d317603-Reviews-The_Grand_Palace-Bangkok.html,0,0,0,0,1,0,4
+162,Ayutthaya Historical Park,Ayutthaya,Thailand,3,0,2,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g303897-d549787-Reviews-Historic_City_of_Ayutthaya-Ayutthaya_Ayutthaya_Province.html,0,0,0,0,1,0,3
+163,Doi Suthep Temple,Chiang Mai,Thailand,2,1,2,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g8286767-d456320-Reviews-Wat_Phra_That_Doi_Suthep-Doi_Suthep.html,0,0,1,0,0,0,2
+164,Erawan Waterfall,Kanchanaburi,Thailand,1,1,3,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1641692-d1840276-Reviews-Erawan_Waterfalls-Erawan_National_Park_Kanchanaburi_Province.html,0,0,0,0,0,1,1
+165,Phang Nga Bay,Phuket,Thailand,1,1,2,3,0,0,1,0,Yes,https://www.tripadvisor.com/Tourism-g303917-Phang_Nga_Phang_Nga_Province-Vacations.html,1,0,0,0,0,0,1
+166,Similan Islands,Phang Nga,Thailand,1,1,3,2,0,1,1,1,Yes,https://www.tripadvisor.com/Attraction_Review-g303917-d1739977-Reviews-Similan_Islands-Phang_Nga_Phang_Nga_Province.html,1,0,0,0,0,0,1
+167,Railay Beach,Krabi,Thailand,1,1,3,2,1,0,1,0,Yes,https://www.tripadvisor.com/Attraction_Review-g1597036-d627649-Reviews-Railay_Beach-Railay_Beach_Krabi_Town_Krabi_Province.html,1,0,0,0,0,0,1
+168,Wat Arun,Bangkok,Thailand,3,0,1,3,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293916-d317504-Reviews-Temple_Of_Dawn_Wat_Arun-Bangkok.html,0,0,1,0,0,0,2
+169,Floating Markets,Damnoen Saduak,Thailand,2,0,1,2,1,0,0,0,No,https://www.tripadvisor.com/Travel-g293915-c219777/Thailand:Floating.Markets.In.Thailand.html,0,1,0,0,0,0,0
+170,Elephant Nature Park,Chiang Mai,Thailand,1,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293917-d601884-Reviews-Elephant_Nature_Park-Chiang_Mai.html,0,1,0,0,0,0,0
+171,Wat Phra That Doi Kham,Chiang Mai,Thailand,2,1,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293917-d1754563-Reviews-Wat_Phra_That_Doi_Kham_Temple_of_the_Golden_Mountain-Chiang_Mai.html,0,0,1,0,0,0,2
+172,Koh Phi Phi Viewpoint,Krabi,Thailand,1,1,2,2,1,0,1,0,No,https://www.tripadvisor.com/Attraction_Review-g303908-d4870312-Reviews-Koh_Phi_Phi_Viewpoint-Ko_Phi_Phi_Don_Ao_Nang_Krabi_Town_Krabi_Province.html,1,0,0,0,0,0,1
+173,Pattaya Floating Market,Pattaya,Thailand,1,0,1,3,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293919-d1438832-Reviews-Pattaya_Floating_Market-Pattaya_Chonburi_Province.html,0,1,0,0,0,0,0
+174,Phra Nang Cave Beach,Krabi,Thailand,1,1,1,2,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1507054-d1426253-Reviews-PhraNang_Cave_Beach-Ao_Nang_Krabi_Town_Krabi_Province.html,1,0,0,0,0,0,0
+175,Wat Rong Khun (White Temple),Chiang Rai,Thailand,2,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297920-d1368436-Reviews-Wat_Rong_Khun-Chiang_Rai_Chiang_Rai_Province.html,0,0,1,0,0,0,2
+176,Koh Chang,Trat,Thailand,1,1,2,2,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g580110-Ko_Chang_Trat_Province-Vacations.html,1,0,0,0,0,0,1
+177,Damnoen Saduak Floating Market,Ratchaburi,Thailand,2,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g303902-d317729-Reviews-Damnoen_Saduak_Floating_Market-Damnoen_Saduak_Ratchaburi_Province.html,0,1,0,0,0,0,2
+178,Wat Mahathat,Ayutthaya,Thailand,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g303897-d1235228-Reviews-Wat_Mahathat-Ayutthaya_Ayutthaya_Province.html,0,0,0,0,1,0,3
+179,Koh Samui,Surat Thani,Thailand,1,1,2,3,1,0,1,0,Yes,https://www.tripadvisor.com/Tourism-g293918-Ko_Samui_Surat_Thani_Province-Vacations.html,1,0,0,0,0,0,1
+180,Koh Tao,Surat Thani,Thailand,1,1,2,3,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g303910-Koh_Tao_Surat_Thani_Province-Vacations.html,1,0,0,0,0,0,1
+181,Khao Yai National Park,Nakhon Ratchasima,Thailand,1,1,2,2,0,1,1,1,No,https://www.tripadvisor.com/Attraction_Review-g2237147-d454888-Reviews-Khao_Yai_National_Park-Pak_Phli_Nakhon_Nayok_Province.html,0,0,0,0,0,1,1
+182,Phuket Big Buddha,Phuket,Thailand,2,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1389361-d2433844-Reviews-Big_Buddha_Phuket-Chalong_Phuket_Town_Phuket.html,0,0,1,0,0,0,2
+183,Phu Chi Fa,Chiang Rai,Thailand,1,1,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g2237308-d547605-Reviews-Phu_Chi_Fa_Forest_Park-Thoeng_Chiang_Rai_Province.html,0,0,0,0,0,1,0
+184,Wat Saket (Golden Mount),Bangkok,Thailand,2,0,1,2,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293916-d456261-Reviews-The_Golden_Mount_Wat_Saket-Bangkok.html,0,0,1,0,0,0,2
+185,Phuket Old Town,Phuket,Thailand,2,0,1,3,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g2315818-d5995325-Reviews-Old_Phuket_Town-Talat_Yai_Phuket_Town_Phuket.html,0,0,1,0,0,0,2
+186,Huay Mae Khamin Waterfall,Kanchanaburi,Thailand,1,1,3,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g2237739-d3653858-Reviews-Huay_Mae_Khamin_Waterfalls-Si_Sawat_Kanchanaburi_Province.html,0,0,0,0,0,1,1
+187,Tiger Cave Temple,Krabi,Thailand,2,1,2,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297927-d456551-Reviews-Tiger_Cave_Temple_Wat_Tham_Suea-Krabi_Town_Krabi_Province.html,0,0,1,0,0,0,2
+188,Sanctuary of Truth,Pattaya,Thailand,1,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293919-d456350-Reviews-The_Sanctuary_Of_Truth-Pattaya_Chonburi_Province.html,0,0,1,0,0,0,2
+189,Wat Chalong,Phuket,Thailand,2,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1389361-d553516-Reviews-Chaithararam_Temple_Wat_Chalong-Chalong_Phuket_Town_Phuket.html,0,0,1,0,0,0,2
+190,Khao Sok National Park,Surat Thani,Thailand,1,1,3,2,0,1,1,1,No,https://www.tripadvisor.com/Attraction_Review-g297917-d455332-Reviews-Khao_Sok_National_Park-Surat_Thani_Surat_Thani_Province.html,0,0,0,0,0,1,1
+191,Wat Chedi Luang,Chiang Mai,Thailand,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293917-d447585-Reviews-Wat_Chedi_Luang_Varavihara-Chiang_Mai.html,0,0,1,0,0,0,2
+192,Golden Triangle,Chiang Rai,Thailand,3,1,2,2,0,0,1,0,No,https://www.tripadvisor.com/Attraction_Review-g317131-d456346-Reviews-Golden_Triangle-Chiang_Saen_Chiang_Rai_Province.html,0,0,1,0,0,0,2
+193,Hua Hin Night Market,Hua Hin,Thailand,1,0,1,2,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297922-d6614342-Reviews-Hua_Hin_Night_Market-Hua_Hin_Prachuap_Khiri_Khan_Province.html,0,1,0,0,0,0,0
+194,Wat Suthat,Bangkok,Thailand,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293916-d456262-Reviews-Wat_Suthat-Bangkok.html,0,0,1,0,0,0,2
+195,Sukhothai Historical Park,Sukhothai,Thailand,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g303921-d455348-Reviews-Sukhothai_Historical_Park-Sukhothai_Sukhothai_Province.html,0,0,0,0,1,0,3
+196,Koh Mak,Trat,Thailand,1,1,2,2,0,0,0,0,No,https://www.tripadvisor.com/Tourism-g952017-Ko_Mak_Trat_Province-Vacations.html,1,0,0,0,0,0,1
+197,Phi Phi Islands,Krabi,Thailand,1,1,3,3,1,1,1,1,Yes,https://www.tripadvisor.com/Tourism-g303908-Ko_Phi_Phi_Don_Ao_Nang_Krabi_Town_Krabi_Province-Vacations.html,1,0,0,0,0,0,1
+198,Wat Benchamabophit,Bangkok,Thailand,2,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293916-d311042-Reviews-Wat_Benchamabophit_The_Marble_Temple-Bangkok.html,0,0,1,0,0,0,2
+199,Nong Nooch Tropical Garden,Pattaya,Thailand,1,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g2005201-d669526-Reviews-Nong_Nooch_Tropical_Botanical_Garden-Na_Chom_Thian_Sattahip_Chonburi_Province.html,0,0,0,1,0,0,0
+200,Koh Kood,Trat,Thailand,1,1,1,2,0,0,1,1,No,https://www.tripadvisor.com/Tourism-g1152744-Ko_Kut_Trat_Province-Vacations.html,1,0,0,0,0,0,1
+201,Chao Phraya River,Bangkok,Thailand,3,0,2,3,0,0,1,1,No,https://www.tripadvisor.com/Attraction_Review-g293916-d450968-Reviews-Chao_Phraya_River-Bangkok.html,1,0,0,0,0,0,3
+202,Golden Buddha (Wat Traimit),Bangkok,Thailand,3,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g293916-d311046-Reviews-Temple_of_the_Golden_Buddha_Wat_Traimit-Bangkok.html,0,0,1,0,0,0,2
+203,Prasat Hin Phimai,Nakhon Ratchasima,Thailand,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/ShowUserReviews-g469414-d456512-r305872412-Phimai_Historical_Park-Nakhon_Ratchasima_Nakhon_Ratchasima_Province.html,0,0,0,0,1,0,3
+204,Koh Lanta,Krabi,Thailand,1,1,2,3,1,0,1,0,Yes,https://www.tripadvisor.com/Tourism-g303905-Ko_Lanta_Krabi_Province-Vacations.html,1,0,0,0,0,0,1
+205,Chiang Rai Night Bazaar,Chiang Rai,Thailand,1,0,1,2,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297920-d556615-Reviews-Chiang_Rai_Night_Bazaar-Chiang_Rai_Chiang_Rai_Province.html,0,1,0,0,0,0,0
+206,Ancient City (Muang Boran),Samut Prakan,Thailand,2,0,1,3,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1570011-d447399-Reviews-Ancient_City_Mueang_Boran-Samut_Prakan_Samut_Prakan_Province.html,0,0,1,0,0,0,2
+207,Ayutthaya Floating Market,Ayutthaya,Thailand,2,0,1,2,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g303897-d1729301-Reviews-Ayothaya_Floating_Market_Elephant_Village-Ayutthaya_Ayutthaya_Province.html,0,1,0,0,0,0,0
+208,Bangla Road,Phuket,Thailand,1,0,1,3,1,1,0,0,No,https://www.tripadvisor.com/Attraction_Review-g297930-d1866109-Reviews-Bangla_Road-Patong_Kathu_Phuket.html,0,1,0,0,0,0,0
+209,Amphawa Floating Market,Samut Songkhram,Thailand,2,0,1,3,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g1028071-d1382813-Reviews-Amphawa_Floating_Market-Amphawa_Samut_Songkhram_Province.html,0,1,0,0,0,0,0
+210,Wat Phra That Doi Suthep,Chiang Mai,Thailand,3,1,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g8286767-d456320-Reviews-Wat_Phra_That_Doi_Suthep-Doi_Suthep.html,0,0,1,0,0,0,2
+211,Coral Island (Koh Hae),Phuket,Thailand,1,1,2,3,0,0,1,0,Yes,https://www.tripadvisor.com/Attraction_Review-g293920-d455888-Reviews-Coral_Island-Phuket.html,1,0,0,0,0,0,1
+212,Wat Mahathat (Sukhothai),Sukhothai,Thailand,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g303921-d447465-Reviews-Wat_Mahathat-Sukhothai_Sukhothai_Province.html,0,0,0,0,1,0,3
+213,Koh Nang Yuan,Surat Thani,Thailand,1,1,1,2,1,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g303910-d553989-Reviews-Koh_Nang_Yuan-Koh_Tao_Surat_Thani_Province.html,1,0,0,0,0,0,0
+214,Hellfire Pass Memorial Museum,Kanchanaburi,Thailand,3,0,1,2,0,0,0,0,No,https://www.tripadvisor.com/Attraction_Review-g17812447-d523723-Reviews-Hellfire_Pass_Interpretive_Centre_and_Memorial_Walking_Trail-Tha_Sao_Sai_Yok_Kan.html,0,0,0,0,1,0,3
+215,Khao Kheow Open Zoo,Chonburi,Thailand,1,0,1,3,0,0,0,1,No,https://www.tripadvisor.com/Attraction_Review-g1602205-d669532-Reviews-Khao_Kheow_Open_Zoo-Si_Racha_Chonburi_Province.html,0,0,0,1,0,0,0
